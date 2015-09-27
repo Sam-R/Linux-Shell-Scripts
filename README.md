@@ -4,6 +4,8 @@ A collection of useful shell scripts used on Debian based Linux distros.
 
 ##  Touchpad.sh
 
+A script to enable or disable the touchpad of a laptop.
+
 ### How to use
 
 1. Identify the input devices by running the following command:
