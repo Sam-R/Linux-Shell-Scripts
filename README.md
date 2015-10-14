@@ -29,3 +29,21 @@ device=11
 http://askubuntu.com/questions/65951/how-to-disable-the-touchpad
 
 http://unix.stackexchange.com/questions/120199/how-to-detect-global-key-presses
+
+## engines.sh
+
+A script to produce white noise similar to the Enterprise in Star Trek The Next Generation
+
+### How to use
+
+1. download engines.sh to a location of your choice. Make sure that permissions are appropriat to run:
+
+```
+chmod 755 engines.sh
+```
+
+2. Run engines.sh with one of the options (there are currently 4 options, and to use them you simply append the number to the end of the command call):
+
+```
+./engines.sh 2
+```
