@@ -47,3 +47,7 @@ chmod 755 engines.sh
 ```
 ./engines.sh 2
 ```
+
+## mint_dev_setup.sh
+
+This is a script to setup and install various components on Linux Mint, primarily to aid with development but there are some custom utils included. Edit before running to see what's happening.
